@@ -1,0 +1,28 @@
+informações comum dentro dos dados  
+banco de dados para uma biblioteca
+banco_dados_biblioteca 
+livros: autor , tipo ,isbn , paginas , tipo_de_ capa 
+frequentadores_da_biblioteca
+
+BANCO DE DADOS; CONJUNTOS DE TABELAS 
+TABELAS: DADOS COM CARACTERISTICAS SEMELHANTES(registros)
+REGISTROS: CAMPOS 
+PESSOAS  
+nome : fabio
+idade : 31
+peso : 45
+altura: 1.75
+nacionalidade:brasileira
+ 
+
+nome : valeria
+idade : 33
+peso : 46
+altura: 1.55
+nacionalidade:mexicana
+
+nome :LUIZA
+idade : 5
+peso : 25
+altura: 1.20
+nacionalidade:brasileira
