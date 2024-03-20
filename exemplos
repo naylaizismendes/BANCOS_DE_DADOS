@@ -1,0 +1,11 @@
+CREATE TABLE pessoas{
+id INT,
+nomeEmpregado varchar(30),
+salario DECIMAL,
+sexo char(1),
+codigodepartamento int,
+email varchar(100) UNIQUE ,
+data_nacimento DATE NOT NULL
+};
+DESCRIBE pessoas;
+
